@@ -1,7 +1,7 @@
-
+import { Users } from './elements/Users';
 
 const App = () => {
-  return <div>App</div>
+  return <Users />;
 };
 
 export default App;
